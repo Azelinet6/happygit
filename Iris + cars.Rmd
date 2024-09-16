@@ -1,7 +1,8 @@
 ---
 title: "Iris + cars"
-output: html_notebook
+output: github_document
 ---
+### Nouvelle analyse
 
 ```{r}
 plot(cars)
