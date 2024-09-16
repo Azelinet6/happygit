@@ -1,0 +1,16 @@
+---
+title: "Iris + cars"
+output: html_notebook
+---
+
+```{r}
+plot(cars)
+```
+Graphique représentant l'augmentation de la vitesse des différentes voitures en fonction de la distance
+
+```{r}
+plot(iris)
+```
+Graphiques des différentes variables entre elles
+
+
